@@ -1,20 +1,2 @@
-<<<<<<< HEAD
-﻿  Interface.cpp
-  Client.cpp
-c:\users\david barreiro\documents\github\tp_so2\rpg\client\client.cpp(58): warning C4477: 'wprintf' : format string '%d' requires an argument of type 'int', but variadic argument 1 has type 'const wchar_t *'
-  Generating Code...
+﻿  LINK : C:\Users\David Barreiro\Documents\GitHub\TP_SO2\RPG\Debug\Client.exe not found or not built by the last incremental link; performing full link
   Client.vcxproj -> C:\Users\David Barreiro\Documents\GitHub\TP_SO2\RPG\Debug\Client.exe
-=======
-﻿  Client.cpp
-<<<<<<< HEAD
-c:\users\david barreiro\desktop\rpg\client\client.cpp(65): warning C4477: 'wprintf' : format string '%d' requires an argument of type 'int', but variadic argument 1 has type 'const wchar_t *'
-c:\users\david barreiro\desktop\rpg\client\client.cpp(42): warning C4101: 'PlayerName': unreferenced local variable
-c:\users\david barreiro\desktop\rpg\client\client.cpp(42): warning C4101: 'aux': unreferenced local variable
-c:\users\david barreiro\desktop\rpg\client\client.cpp(45): warning C4101: 'n': unreferenced local variable
-c:\users\david barreiro\desktop\rpg\client\client.cpp(44): warning C4101: 'ret': unreferenced local variable
-c:\users\david barreiro\desktop\rpg\client\client.cpp(88): warning C4101: 'name': unreferenced local variable
-=======
-c:\users\david barreiro\desktop\rpg\client\client.cpp(58): warning C4477: 'wprintf' : format string '%d' requires an argument of type 'int', but variadic argument 1 has type 'const wchar_t *'
->>>>>>> origin/master
-  Client.vcxproj -> C:\Users\David Barreiro\Desktop\RPG\Debug\Client.exe
->>>>>>> origin/master
