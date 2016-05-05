@@ -1,0 +1,6 @@
+﻿  pch.cpp
+  dllmain.cpp
+  Dll.cpp
+  LINK : C:\Users\David Barreiro\Documents\GitHub\TP_SO2\RPG\Debug\Dll\Dll.dll not found or not built by the last incremental link; performing full link
+  Dll.vcxproj -> C:\Users\David Barreiro\Documents\GitHub\TP_SO2\RPG\Debug\Dll\Dll.dll
+  Dll.vcxproj -> C:\Users\David Barreiro\Documents\GitHub\TP_SO2\RPG\Debug\Dll\Dll.pdb (Partial PDB)
